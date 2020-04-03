@@ -9,6 +9,8 @@ Ref:<br>
 https://inconvergent.net/2016/shepherding-random-numbers/ 
 
 <img width="1345px" height="450px"  src ="img/img.jpg">
+
+View live demo at : https://codepen.io/niitettehtsuru/pen/zYGQYZj
  
 ## Getting Started
 
